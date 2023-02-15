@@ -1,0 +1,913 @@
+BEGIN:VCALENDAR
+PRODID:-//Horarios_UC3M//iCal4j 1.0//ES
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15940230
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230203T160000Z
+DTSTART:20230203T170000
+DTEND:20230203T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15956181
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230210T160000Z
+DTSTART:20230210T170000
+DTEND:20230210T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886282
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230217T160000Z
+DTSTART:20230217T170000
+DTEND:20230217T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886721
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230224T160000Z
+DTSTART:20230224T170000
+DTEND:20230224T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886722
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230303T160000Z
+DTSTART:20230303T170000
+DTEND:20230303T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886728
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230310T160000Z
+DTSTART:20230310T170000
+DTEND:20230310T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15940753
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230317T160000Z
+DTSTART:20230317T170000
+DTEND:20230317T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886729
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230324T160000Z
+DTSTART:20230324T170000
+DTEND:20230324T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886730
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230331T150000Z
+DTSTART:20230331T170000
+DTEND:20230331T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15940233
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230414T150000Z
+DTSTART:20230414T170000
+DTEND:20230414T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15886731
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230421T150000Z
+DTSTART:20230421T170000
+DTEND:20230421T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15956183
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230428T150000Z
+DTSTART:20230428T170000
+DTEND:20230428T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15888072
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230505T150000Z
+DTSTART:20230505T170000
+DTEND:20230505T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15965240
+SUMMARY:Teoría avanzada de la computación\, grupo 84
+DESCRIPTION:Teoría avanzada de la computación\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230512T150000Z
+DTSTART:20230512T170000
+DTEND:20230512T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15964328
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230131T160000Z
+DTSTART:20230131T170000
+DTEND:20230131T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909512
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230207T160000Z
+DTSTART:20230207T170000
+DTEND:20230207T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15964329
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230214T160000Z
+DTSTART:20230214T170000
+DTEND:20230214T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909513
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230221T160000Z
+DTSTART:20230221T170000
+DTEND:20230221T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15946917
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230228T160000Z
+DTSTART:20230228T170000
+DTEND:20230228T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15964330
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230307T160000Z
+DTSTART:20230307T170000
+DTEND:20230307T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15964331
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230314T160000Z
+DTSTART:20230314T170000
+DTEND:20230314T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909514
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230321T160000Z
+DTSTART:20230321T170000
+DTEND:20230321T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909515
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230328T150000Z
+DTSTART:20230328T170000
+DTEND:20230328T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909517
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230411T150000Z
+DTSTART:20230411T170000
+DTEND:20230411T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909518
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230418T150000Z
+DTSTART:20230418T170000
+DTEND:20230418T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909519
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230425T150000Z
+DTSTART:20230425T170000
+DTEND:20230425T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16003374
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230503T170000Z
+DTSTART:20230503T190000
+DTEND:20230503T210000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:15909521
+SUMMARY:Teoría avanzada de la computación\, grp.83 y 84
+DESCRIPTION:Teoría avanzada de la computación\, grp.83 y 84
+LOCATION:7.1.J01
+CATEGORIES:CLASE
+DTSTAMP:20230509T150000Z
+DTSTART:20230509T170000
+DTEND:20230509T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059127
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230130T160000Z
+DTSTART:20230130T170000
+DTEND:20230130T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059128
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230206T160000Z
+DTSTART:20230206T170000
+DTEND:20230206T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059129
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230213T160000Z
+DTSTART:20230213T170000
+DTEND:20230213T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059130
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230220T160000Z
+DTSTART:20230220T170000
+DTEND:20230220T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059131
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230227T160000Z
+DTSTART:20230227T170000
+DTEND:20230227T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059132
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230306T160000Z
+DTSTART:20230306T170000
+DTEND:20230306T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059133
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230313T160000Z
+DTSTART:20230313T170000
+DTEND:20230313T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059135
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230327T150000Z
+DTSTART:20230327T170000
+DTEND:20230327T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059138
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230417T150000Z
+DTSTART:20230417T170000
+DTEND:20230417T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059139
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230424T150000Z
+DTSTART:20230424T170000
+DTEND:20230424T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059141
+SUMMARY:Informática gráfica y aceleración hardware\, grp.83 y 84
+DESCRIPTION:Informática gráfica y aceleración hardware\, grp.83 y 84
+LOCATION:7.2.J01
+CATEGORIES:CLASE
+DTSTAMP:20230508T150000Z
+DTSTART:20230508T170000
+DTEND:20230508T190000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059160
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230203T140000Z
+DTSTART:20230203T150000
+DTEND:20230203T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059161
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230210T140000Z
+DTSTART:20230210T150000
+DTEND:20230210T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059162
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230217T140000Z
+DTSTART:20230217T150000
+DTEND:20230217T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059163
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230224T140000Z
+DTSTART:20230224T150000
+DTEND:20230224T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059164
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230303T140000Z
+DTSTART:20230303T150000
+DTEND:20230303T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059165
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230310T140000Z
+DTSTART:20230310T150000
+DTEND:20230310T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059166
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230317T140000Z
+DTSTART:20230317T150000
+DTEND:20230317T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059167
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230324T140000Z
+DTSTART:20230324T150000
+DTEND:20230324T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059168
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230331T130000Z
+DTSTART:20230331T150000
+DTEND:20230331T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059170
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230414T130000Z
+DTSTART:20230414T150000
+DTEND:20230414T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059171
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230421T130000Z
+DTSTART:20230421T150000
+DTEND:20230421T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059172
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230428T130000Z
+DTSTART:20230428T150000
+DTEND:20230428T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059173
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230505T130000Z
+DTSTART:20230505T150000
+DTEND:20230505T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059174
+SUMMARY:Informática gráfica e inteligencia artificial\,Informática gráfic
+ a y aceleración hardware\, grupo 84
+DESCRIPTION:Informática gráfica e inteligencia artificial\,Informática gr
+ áfica y aceleración hardware\, grupo 84
+LOCATION:LAB 4.0.F18 (Lab Linux)
+CATEGORIES:CLASE
+DTSTAMP:20230512T130000Z
+DTSTART:20230512T150000
+DTEND:20230512T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059643
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230131T140000Z
+DTSTART:20230131T150000
+DTEND:20230131T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059644
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230201T140000Z
+DTSTART:20230201T150000
+DTEND:20230201T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059645
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230207T140000Z
+DTSTART:20230207T150000
+DTEND:20230207T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059646
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230208T140000Z
+DTSTART:20230208T150000
+DTEND:20230208T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059647
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230214T140000Z
+DTSTART:20230214T150000
+DTEND:20230214T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059648
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230215T140000Z
+DTSTART:20230215T150000
+DTEND:20230215T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059649
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230221T140000Z
+DTSTART:20230221T150000
+DTEND:20230221T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059650
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230222T140000Z
+DTSTART:20230222T150000
+DTEND:20230222T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059651
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230228T140000Z
+DTSTART:20230228T150000
+DTEND:20230228T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059652
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230301T140000Z
+DTSTART:20230301T150000
+DTEND:20230301T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059653
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230307T140000Z
+DTSTART:20230307T150000
+DTEND:20230307T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059654
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230308T140000Z
+DTSTART:20230308T150000
+DTEND:20230308T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059655
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230314T140000Z
+DTSTART:20230314T150000
+DTEND:20230314T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059656
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230315T140000Z
+DTSTART:20230315T150000
+DTEND:20230315T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059657
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230321T140000Z
+DTSTART:20230321T150000
+DTEND:20230321T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059658
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230322T140000Z
+DTSTART:20230322T150000
+DTEND:20230322T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059659
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230328T130000Z
+DTSTART:20230328T150000
+DTEND:20230328T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059660
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230329T130000Z
+DTSTART:20230329T150000
+DTEND:20230329T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059663
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230411T130000Z
+DTSTART:20230411T150000
+DTEND:20230411T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059664
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230412T130000Z
+DTSTART:20230412T150000
+DTEND:20230412T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059665
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230418T130000Z
+DTSTART:20230418T150000
+DTEND:20230418T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059666
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230419T130000Z
+DTSTART:20230419T150000
+DTEND:20230419T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059667
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230425T130000Z
+DTSTART:20230425T150000
+DTEND:20230425T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059668
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230426T130000Z
+DTSTART:20230426T150000
+DTEND:20230426T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059670
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230503T130000Z
+DTSTART:20230503T150000
+DTEND:20230503T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059671
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230509T130000Z
+DTSTART:20230509T150000
+DTEND:20230509T170000
+END:VEVENT
+BEGIN:VEVENT
+TZID:Europe/Madrid
+UID:16059672
+SUMMARY:Dirección de proyectos de desarrollo de software\, grp. 83
+DESCRIPTION:Dirección de proyectos de desarrollo de software\, grp. 83
+LOCATION:7.2.J06
+CATEGORIES:CLASE
+DTSTAMP:20230510T130000Z
+DTSTART:20230510T150000
+DTEND:20230510T170000
+END:VEVENT
+END:VCALENDAR
